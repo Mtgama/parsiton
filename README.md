@@ -34,7 +34,7 @@ pip install arabic-reshaper python-bidi
 
 ## 🎥 ویدیو آموزشی:
 
-**[مشاهده آموزش Parsiton در یوتیوب](https://my.uupload.ir/dl/NdQyxyEZ)
+**[مشاهده آموزش Parsiton در یوتیوب](https://my.uupload.ir/p/NdQyxyEZ)
 
 ---
 
@@ -75,7 +75,7 @@ pip install arabic-reshaper python-bidi
 
 ## 🎥 Watch the Tutorial:
 
-[Watch Parsiton Tutorial on YouTube](https://my.uupload.ir/dl/NdQyxyEZ)
+[Watch Parsiton Tutorial on YouTube](https://my.uupload.ir/p/NdQyxyEZ)
 
 
 ```
